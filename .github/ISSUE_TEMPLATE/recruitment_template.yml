@@ -9,7 +9,6 @@ body:
     id: RelatedActivities
     attributes:
       label: Tick all the related activities you intend to get involved in, in this sprint.
-      description: In the section below, please add details of the activities you are involved in.
       options:
         - label: Resume screening & shortlisting
           required: false
@@ -25,3 +24,7 @@ body:
           required: false
         - label: Working with the HR/TA team on the pre-onboarding needs (CODE1-creation, Equipments etc.)
           required: false
+  - type: markdown
+    attributes:
+      value: |
+        ### NOTE: Please ensure that you are assigning this issue to yourself and you are tracking it to its completion. Thank you!
