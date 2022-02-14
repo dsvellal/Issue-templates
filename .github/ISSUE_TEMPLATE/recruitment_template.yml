@@ -15,7 +15,7 @@ body:
           required: false
         - label: Vendor management & expectation setting
           required: false
-        - Talent acquisition interactions
+        - label: Talent acquisition interactions
           required: false
         - label: Interview panelist identification & scheduling slots
           required: false
