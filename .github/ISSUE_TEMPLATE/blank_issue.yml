@@ -1,1 +1,5 @@
-
+name: Blank issue
+description: Used for tracking work as issues
+title: "[Issue]: "
+assignees:
+  - SWCoE
