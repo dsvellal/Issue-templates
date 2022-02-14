@@ -3,7 +3,7 @@ description: Used for tracking recruitment specific activities
 title: "[Recruitment]: "
 labels: ["hiring"]
 assignees:
-  - dsvellal
+  - SWCoE
 body:
   - type: checkboxes
     id: RelatedActivities
