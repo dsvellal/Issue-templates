@@ -7,6 +7,6 @@ body:
   - type: textarea
     id: Description
     attributes:
-      label: Relevant issues
+      label: Task/Issue
       description: Please provide necessary details in the text area
       render: text
