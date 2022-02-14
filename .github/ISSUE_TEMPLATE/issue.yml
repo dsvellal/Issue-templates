@@ -9,7 +9,7 @@ body:
   id: Input
   attributes:
     label: Input
-    description: "What is the expected input"?
+    description: "What is the expected input?"
     placeholder: "Example: Work with the team to come up with questionnaire for the craft 2.0 modules"
   validations:
     required: false
@@ -17,7 +17,7 @@ body:
   id: Output
   attributes:
     label: Output
-    description: "What is the expected output"?
+    description: "What is the expected output?"
     placeholder: "Example: Reviewed questionnaire for the craft 2.0 modules"
   validations:
     required: false
@@ -25,7 +25,7 @@ body:
   id: Size
   attributes:
     label: Size
-    description: "What is the approximate task size"?
+    description: "What is the approximate task size?"
     placeholder: "Example: Reviewed questionnaire for the craft 2.0 modules"
   validations:
     required: false
