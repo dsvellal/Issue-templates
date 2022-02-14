@@ -1,0 +1,12 @@
+name: Blank issue
+description: Used for tracking work as issues
+title: "[Issue]: "
+assignees:
+  - SWCoE
+body:
+  - type: textarea
+    id: BlankIssue
+    attributes:
+      label: Issue/Task
+      description: Provide necessary details below
+      render: text
