@@ -3,7 +3,7 @@ description: Used for tracking recruitment specific activities
 title: "[Recruitment]: "
 labels: ["hiring"]
 assignees:
-  - SWCoE
+  - [SWCoE](https://github.com/orgs/philips-internal/teams/swcoe/members)
 body:
   - type: checkboxes
     id: RelatedActivities
