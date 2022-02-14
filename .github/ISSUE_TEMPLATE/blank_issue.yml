@@ -4,3 +4,9 @@ title: "[Issue]: "
 assignees:
   - SWCoE
 body:
+  - type: textarea
+    id: Description
+    attributes:
+      label: Relevant issues
+      description: Please provide necessary details in the text area
+      render: text
