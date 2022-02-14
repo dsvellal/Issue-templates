@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: SWCoE Home Page
+    url: https://share.philips.com/sites/SWCoE
+    about: Software Center of Excellence Home Page
+  - name: Issues
+    url: https://github.com:philips-internal/swcoe-transformation-ph2/issues
+    about: Please report any issues related to the template or bugs here.
